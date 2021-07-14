@@ -1,0 +1,31 @@
+body{
+    background-color: #131314;
+}
+#thirdDiv{
+    font-size: 20px;
+    padding: 50px;
+    border: 2px solid whitesmoke;
+    color:whitesmoke;
+}
+#thirdDiv img{
+    height: 400px; width: 700px;
+    margin: 70px;
+}
+#spanId{
+    font-size: 20px;
+    margin: 638px;
+    color:whitesmoke;
+}
+.divClass h1{
+    text-align: center;
+    color:whitesmoke;
+}
+.divClass h3{
+    font-size: 30px;
+    color:whitesmoke;
+    text-align: center;
+}
+.divClass h4{
+    color:whitesmoke;
+    text-align: center;
+}
